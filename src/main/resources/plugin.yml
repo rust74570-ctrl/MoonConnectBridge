@@ -1,0 +1,4 @@
+name: MoonConnectBridge
+version: 1.0.0
+main: com.moon.connect.bridge.MoonConnectBridge
+description: Moon Connect server bridge
